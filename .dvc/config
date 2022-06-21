@@ -1,0 +1,6 @@
+[core]
+    no_scm = True
+    analytics = false
+    remote = remote_storage
+['remote "remote_storage"']
+    url = /home_ext/whm_ext/data_c
