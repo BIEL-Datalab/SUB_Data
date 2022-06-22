@@ -2,5 +2,6 @@
     no_scm = True
     analytics = false
     remote = remote_storage
+    autostage = true
 ['remote "remote_storage"']
     url = /home_ext/whm_ext/data_c
